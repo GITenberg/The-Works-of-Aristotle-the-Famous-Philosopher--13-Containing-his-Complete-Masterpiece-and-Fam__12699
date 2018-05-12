@@ -1,5 +1,8 @@
 _repo: The-Works-of-Aristotle-the-Famous-Philosopher--13-Containing-his-Complete-Masterpiece-and-Fam__12699
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristotle
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aristotle
     - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12699#The-Works-of-Aristotle-the-Famous-Philosopher--13-Containing-his-Complete-Masterpiece-and-Fam_
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
